@@ -1,0 +1,10 @@
+# __pycache__
+# venv
+
+*.log
+*.pot
+*.pyc
+__pycache__/
+
+env/
+text=auto eol=lf
